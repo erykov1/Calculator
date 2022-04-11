@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+
+    <string name="allClear">AC</string>
+    <string name="divide">/</string>
+    <string name="multiply">x</string>
+    <string name="percent">%</string>
+    <string name="add">+</string>
+    <string name="subtract">-</string>
+    <string name="plusMinus">+/-</string>
+    <string name="comma">,</string>
+    <string name="equals">=</string>
+    <string name="backspace"> </string>
+    <string name="enterValue">0</string>
+    <string name="log10">log10</string>
+    <string name="factorial">x!</string>
+    <string name="sqrt">sqrt(x)</string>
+    <string name="toPower3">x^3</string>
+    <string name="toPower2">x^2</string>
+</resources>
